@@ -1,4 +1,13 @@
 # QA Automation Framework
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
+![REST Assured](https://img.shields.io/badge/REST--Assured-009688?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/JaybhanTomar/qa-automation-framework?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JaybhanTomar/qa-automation-framework?style=social)
 
 A powerful end-to-end automation framework built with **Selenium**, **TestNG**, **REST Assured**, and **JDBC**.  
 Designed for real-world testing needs including **API validation**, **UI automation**, and **database verification** — all in one flow.
